@@ -1,2 +1,2 @@
 # AIS-Data-to-MongoDB
-Quick and dirty: Write AIS data to MongoDB
+Read AIS data from UDP broadcast and write to MongoDB
